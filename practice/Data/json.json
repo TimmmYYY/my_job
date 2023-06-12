@@ -1,0 +1,66 @@
+{
+  "employees": [
+    {
+      "id": "E001",
+      "name": "John Doe",
+      "position": "Manager",
+      "department": "Sales"
+    },
+    {
+      "id": "E002",
+      "name": "Jane Smith",
+      "position": "Engineer",
+      "department": "Engineering"
+    },
+    {
+      "id": "E003",
+      "name": "Michael Johnson",
+      "position": "Analyst",
+      "department": "Finance"
+    },
+    {
+      "id": "E004",
+      "name": "Emily Davis",
+      "position": "Designer",
+      "department": "Marketing"
+    },
+    {
+      "id": "E005",
+      "name": "David Wilson",
+      "position": "Developer",
+      "department": "IT"
+    }
+  ],
+  "products": [
+    {
+      "id": "P001",
+      "name": "Shirt",
+      "price": 20.99,
+      "category": "Apparel"
+    },
+    {
+      "id": "P002",
+      "name": "Phone",
+      "price": 599.99,
+      "category": "Electronics"
+    },
+    {
+      "id": "P003",
+      "name": "Book",
+      "price": 9.99,
+      "category": "Stationery"
+    },
+    {
+      "id": "P004",
+      "name": "Chair",
+      "price": 89.99,
+      "category": "Furniture"
+    },
+    {
+      "id": "P005",
+      "name": "Watch",
+      "price": 149.99,
+      "category": "Accessories"
+    }
+  ]
+}

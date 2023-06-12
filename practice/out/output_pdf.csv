@@ -1,0 +1,11 @@
+Product,Category,Price,Quantity,In,Stock
+Shirt,Apparel,$20,10,Yes
+Laptop,Electronics,$800,5,Yes
+Book,Stationery,$15,20,Yes
+Chair,Stationery,$100,3,Yes
+Watch,Accessories,$50,8,Yes
+Shoes,Apparel,$60,12,Yes
+Headphones,Electronics,$50,6,Yes
+Pen,Stationery,$20,50,Yes
+Table,Furniture,$150,2,Yes
+Bag,Accessories,$30,15,Yes

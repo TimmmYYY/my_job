@@ -1,0 +1,7 @@
+Name           | Age |  Gender | Occupation
+--------------------------------------------
+John Doe       |  30 |   Male  | Engineer
+Jane Smith     |  25 | Female  | Teacher
+Michael Johnson|  40 |   Male  | Lawyer
+Emily Davis    |  35 | Female  | Doctor
+David Wilson   |  28 |   Male  | Artist
